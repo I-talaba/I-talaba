@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Salom, men Axror!
 
-<!--
-**I-talaba/I-talaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python dasturchiman  
+🚀 Git va GitHub o‘rganyapman  
+🎯 Maqsad: kuchli backend developer bo‘lish  
 
-Here are some ideas to get you started:
+## 🛠 Texnologiyalar:
+- Python
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Loyihalar:
+- Calculator Project
+
+## 📞 Aloqa:
+- Email: beruniyy307@gmail.com
